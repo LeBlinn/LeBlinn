@@ -1,4 +1,4 @@
-<p style="text-align: center;">
+<p align="center">
 <h1>Hello, I'm Josh Blinn🙂</h1>
 <h3>Third Year Computer Engineer at UOttawa</h3>
 </p>
