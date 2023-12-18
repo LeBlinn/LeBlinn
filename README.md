@@ -1,15 +1,14 @@
-<p align="center">
+<p style="text-align: center;">
 <h1>Hello, I'm Josh Blinn🙂</h1>
 <h3>Third Year Computer Engineer at UOttawa</h3>
 </p>
 <hr>
-🖥️ I’m currently working on my personal website
-
-🌱 I’m currently learning website dev & embedded software
-
-📫 How to reach me: joshyblinn@gmail.com
-
+<p>
+🖥️ I’m currently working on my personal website<br>
+🌱 I’m currently learning website dev & embedded software<br>
+📫 How to reach me: joshyblinn@gmail.com<br>
 🔗 Connect with me: <a href="https://www.linkedin.com/in/josh-blinn/">LinkedIn Profile</a>
+</p>
 
 <!--
 **LeBlinn/LeBlinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
