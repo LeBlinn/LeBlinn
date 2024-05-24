@@ -4,7 +4,7 @@
 </p>
 <hr>
 <p>
-🖥️ I’m currently working on my personal website<br>
+🖥️ I’m currently working on a basic kernel running snake<br>
 🌱 I’m currently learning website dev & embedded software<br>
 📫 How to reach me: joshyblinn@gmail.com<br>
 🔗 Connect with me: <a href="https://www.linkedin.com/in/josh-blinn/">LinkedIn Profile</a>
