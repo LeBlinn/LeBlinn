@@ -1,11 +1,10 @@
 <p align="center">
 <h1>Hello, I'm Josh Blinn🙂</h1>
-<h3>Fourth Year Computer Engineer at UOttawa</h3>
+<h3>Firmware Developer</h3>
 </p>
 <hr>
 <p>
-🖥️ I’m currently focusing on school projects<br>
-🌱 I’m currently learning website dev & embedded software<br>
+🌱 I’m currently learning Rust<br>
 📫 How to reach me: joshyblinn@gmail.com<br>
 🔗 Connect with me: <a href="https://www.linkedin.com/in/josh-blinn/">LinkedIn Profile</a>
 </p>
