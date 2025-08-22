@@ -1,6 +1,6 @@
 <p align="center">
 <h1>Hello, I'm Josh Blinn🙂</h1>
-<h3>Firmware Developer</h3>
+<h3>Embedded Systems Developer</h3>
 </p>
 <hr>
 <p>
