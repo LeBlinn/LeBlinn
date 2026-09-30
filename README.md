@@ -4,7 +4,6 @@
 </p>
 <hr>
 <p>
-🌱 I’m currently learning Rust<br>
 📫 How to reach me: joshyblinn@gmail.com<br>
 🔗 Connect with me: <a href="https://www.linkedin.com/in/josh-blinn/">LinkedIn Profile</a>
 </p>
